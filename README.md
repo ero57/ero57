@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ero57
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning IT
+- 🌱 I’m currently studying IT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
