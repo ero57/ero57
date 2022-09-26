@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ero57
 - 👀 I’m interested in AI
-- 🌱 I’m currently studying IT
+- 🌱 I’m currently studying Computer Science at the University of Ulm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
