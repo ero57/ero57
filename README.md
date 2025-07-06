@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ero57
-- 👀 I’m interested in AI
-- 🌱 I’m currently studying Computer Science at the University of Ulm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I’m @ero57 👋
+
+🎓 I’m currently studying Electrical and Information Engineering at the Technical University of Ulm (Technische Hochschule Ulm).  
+🛠️ I’m passionate about building things from scratch – whether it’s hardware, software, or systems.  
+🌱 I’m currently expanding my knowledge in electronics, embedded systems, and software development.  
+🤝 I’m open to collaborating on exciting tech projects and prototypes.  
+📫 Feel free to reach out: [LinkedIn]
+
 
 <!---
 ero57/ero57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
